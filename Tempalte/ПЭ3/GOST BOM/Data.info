@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ASR_Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Guid xmlns="http://tempuri.org/">007974F4-1753-40AB-9E68-8BFD110972E1</Guid>
+  <HRID xmlns="http://tempuri.org/">GOST BOM</HRID>
+  <ProductLineGuid xmlns="http://tempuri.org/">09D0A56F-4AC4-4159-9D7F-CE64A7A29346</ProductLineGuid>
+  <ItemGuid xmlns="http://tempuri.org/">0401B442-6758-44D6-99C3-320807789BE7</ItemGuid>
+  <CategoryGuid xmlns="http://tempuri.org/">793A1F67-0B22-4E01-A5DE-3176A1E8C60D</CategoryGuid>
+  <DistributionLevel xmlns="http://tempuri.org/">Full</DistributionLevel>
+  <TechnologyName xmlns="http://tempuri.org/">GOST BOM</TechnologyName>
+  <LicensingMode xmlns="http://tempuri.org/">0</LicensingMode>
+  <PublisherGuid xmlns="http://tempuri.org/">639FDAE2-AD32-4BD1-AD14-55C9A6F75617</PublisherGuid>
+  <PublisherName xmlns="http://tempuri.org/">Altium, Inc.</PublisherName>
+  <OwnProduct xmlns="http://tempuri.org/">false</OwnProduct>
+  <Versions xmlns="http://tempuri.org/">
+    <ASR_ProductVersion>
+      <Guid>9A8F6AAF-ACC9-4304-88BF-047AB51CF58D</Guid>
+      <Version>2.0.12.176</Version>
+      <Title>GOST 2.701-2008/2.106-1996</Title>
+      <ShortDescription>Формирование текстовой документации в соответствии с ГОСТ</ShortDescription>
+      <LongDescription>BOM generation accordance with GOST standard
+Формирование текстовой документации в соответствии с ГОСТ</LongDescription>
+      <ReadMe />
+      <Keywords />
+      <Help />
+      <ReleaseNotes>1. Исправлен и дополнен справочник буквенно-цифровых обозначений ГОСТ 2.710 DesignatorDevice.xml.
+2. Исправлено поведение диалога "Свойства проекта" (Кнопка "Применить").
+3. Исправлены кнопки "Вверх", "Вниз" диалога "Параметр - Наименование".
+4. Исправлен алгоритм формирования составного наименования. При нулевом значении любой части составного наименования эта часть игнорируется.
+5. Добавлено сообщение в прогресс бар о запущенном процессе GOSTBOM.
+6. Исправлено диалоговое окно "Отчеты GOSTBOM" выбора типа отчета. При повторном вызове команды сохранять выбранные отчеты (checkbox).</ReleaseNotes>
+      <ReleaseDate>2021-09-25T01:12:12Z</ReleaseDate>
+      <URL />
+      <Status>published</Status>
+      <ProductGuid>007974F4-1753-40AB-9E68-8BFD110972E1</ProductGuid>
+      <RevisionGuid>C6EFB08D-F1BA-4492-A617-619F41DE339E</RevisionGuid>
+      <LifeCycleStateGuid>B4D29A9A-68F9-4531-9899-33186E4F21B3</LifeCycleStateGuid>
+      <AltiumUpdate>false</AltiumUpdate>
+      <PublisherName>Altium Limited</PublisherName>
+      <IsBreak>false</IsBreak>
+      <PlatformVersion>
+        <records>
+          <ASR_Platform>
+            <Name>DXP</Name>
+            <Value>1.0.16.8</Value>
+          </ASR_Platform>
+          <ASR_Platform>
+            <Name>EDP</Name>
+            <Value>10.0.16.8</Value>
+          </ASR_Platform>
+          <ASR_Platform>
+            <Name>MaxDXP</Name>
+            <Value>0.0.0.0</Value>
+          </ASR_Platform>
+          <ASR_Platform>
+            <Name>MaxEDP</Name>
+            <Value>0.0.0.0</Value>
+          </ASR_Platform>
+        </records>
+      </PlatformVersion>
+      <Resources>
+        <ASR_ProductResource>
+          <Guid>19B4FFB2-3B01-434F-A4A1-E2E5C19828D4</Guid>
+          <ProductVersionGuid>9A8F6AAF-ACC9-4304-88BF-047AB51CF58D</ProductVersionGuid>
+          <MediaType>image</MediaType>
+          <DisplayOrder>1</DisplayOrder>
+          <Description>SmallIcon</Description>
+          <URL />
+          <HRID>SmallIcon.png</HRID>
+        </ASR_ProductResource>
+        <ASR_ProductResource>
+          <Guid>286C5276-768F-4728-B301-FCDE10B687DC</Guid>
+          <ProductVersionGuid>9A8F6AAF-ACC9-4304-88BF-047AB51CF58D</ProductVersionGuid>
+          <MediaType>image</MediaType>
+          <DisplayOrder>2</DisplayOrder>
+          <Description>LargeIcon</Description>
+          <URL />
+          <HRID>LargeIcon.png</HRID>
+        </ASR_ProductResource>
+      </Resources>
+      <Platform>pAnyCPU</Platform>
+      <Branch />
+    </ASR_ProductVersion>
+  </Versions>
+  <PermissionSetGuids xmlns="http://tempuri.org/" />
+  <TrialPermissionSetGuid xmlns="http://tempuri.org/" />
+  <PromotionUrl xmlns="http://tempuri.org/">http://</PromotionUrl>
+  <ProductLines xmlns="http://tempuri.org/">
+    <string>09D0A56F-4AC4-4159-9D7F-CE64A7A29346</string>
+    <string>4668847D-9AFE-4A8F-A00E-EDC1648587A6</string>
+  </ProductLines>
+</ASR_Product>
