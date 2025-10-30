@@ -24,25 +24,17 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
-NewIndexingOfSheetSymbols=1
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-ConstraintManagerFlow=0
-IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
-CrossRefPorts=3
-CrossRefCrossSheets=1
-CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -984,23 +976,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PGMXYBBY
 
 [Document56]
-DocumentPath=..\..\Pcb\Connector\KLS1-4.20-2X04-R.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FTLYYMEF
-
-[Document57]
 DocumentPath=FX10A-168P-SV(71).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1017,7 +992,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLTWXMBK
 
-[Document58]
+[Document57]
 DocumentPath=..\..\Pcb\Connector\FX10A-168P-SV(71).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1034,7 +1009,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JOGAVYIL
 
-[Document59]
+[Document58]
 DocumentPath=PCIe_x1_edge.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1051,7 +1026,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUWMWSRW
 
-[Document60]
+[Document59]
 DocumentPath=..\..\Pcb\Connector\PCIe_x1_edge.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1068,7 +1043,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTRPOBME
 
-[Document61]
+[Document60]
 DocumentPath=74441-0001.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1085,7 +1060,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MAWZFYAK
 
-[Document62]
+[Document61]
 DocumentPath=..\..\Pcb\Connector\74441-0001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1102,7 +1077,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCXUDEUW
 
-[Document63]
+[Document62]
 DocumentPath=sfp_cage.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1119,7 +1094,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGYUIZYP
 
-[Document64]
+[Document63]
 DocumentPath=..\..\Pcb\Connector\74754-0220.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1136,7 +1111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDDUXELU
 
-[Document65]
+[Document64]
 DocumentPath=L826-1X1T-43-F.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1153,7 +1128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUARLXFN
 
-[Document66]
+[Document65]
 DocumentPath=..\..\Pcb\Custom\L826-1X1T-43-F.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1170,7 +1145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document66]
 DocumentPath=..\..\Pcb\Custom\503182-011.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1187,7 +1162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDHFQYXX
 
-[Document68]
+[Document67]
 DocumentPath=..\..\Pcb\Connector\PBD2-10S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1204,7 +1179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZMIRUXED
 
-[Document69]
+[Document68]
 DocumentPath=..\..\Pcb\Connector\PLD2-10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1221,7 +1196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLEBYCDJ
 
-[Document70]
+[Document69]
 DocumentPath=..\..\Pcb\Connector\SD87340-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1238,7 +1213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBLYUQNU
 
-[Document71]
+[Document70]
 DocumentPath=..\..\Pcb\Connector\PBD-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1255,7 +1230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNMYOIWO
 
-[Document72]
+[Document71]
 DocumentPath=..\..\Pcb\Connector\DS1013-10R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1272,7 +1247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMQNGBPW
 
-[Document73]
+[Document72]
 DocumentPath=..\..\Pcb\Connector\S10B-PHDSS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1289,7 +1264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RSWNADBT
 
-[Document74]
+[Document73]
 DocumentPath=..\..\Pcb\Connector\DS1013-20R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1306,7 +1281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSLGWMPQ
 
-[Document75]
+[Document74]
 DocumentPath=Header 2X25.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1323,7 +1298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNMIBYPY
 
-[Document76]
+[Document75]
 DocumentPath=..\..\Pcb\Connector\PLD2-50.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1340,7 +1315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYRMJLYK
 
-[Document77]
+[Document76]
 DocumentPath=DS1120-96M-R13.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1357,7 +1332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBJDROKZ
 
-[Document78]
+[Document77]
 DocumentPath=..\..\Pcb\Connector\DS1120-96M-R13.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1374,7 +1349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRGQMWMP
 
-[Document79]
+[Document78]
 DocumentPath=DRB-9MA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1391,7 +1366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRPHQGSM
 
-[Document80]
+[Document79]
 DocumentPath=..\..\Pcb\Connector\DRB-9MA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1408,7 +1383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHTPVYGO
 
-[Document81]
+[Document80]
 DocumentPath=IPEX_MHF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1425,7 +1400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOSQMMEQ
 
-[Document82]
+[Document81]
 DocumentPath=..\..\Pcb\Connector\IPEX_MHF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1442,7 +1417,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRCFUBIB
 
-[Document83]
+[Document82]
 DocumentPath=SH_1.0_4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1459,7 +1434,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFCZPLNE
 
-[Document84]
+[Document83]
 DocumentPath=SH_1.0_6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1476,7 +1451,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEPSADHT
 
-[Document85]
+[Document84]
 DocumentPath=..\..\Pcb\Connector\SH_1.0_4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1493,7 +1468,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQPSDDBL
 
-[Document86]
+[Document85]
 DocumentPath=..\..\Pcb\Connector\SH_1.0_6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1510,7 +1485,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PASPTAFC
 
-[Document87]
+[Document86]
 DocumentPath=..\..\Pcb\Connector\TP_HOLE_1_05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1527,7 +1502,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPKLCHSF
 
-[Document88]
+[Document87]
 DocumentPath=..\..\Pcb\Connector\TP_PAD_1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1544,7 +1519,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YYBURYAN
 
-[Document89]
+[Document88]
 DocumentPath=..\..\Pcb\Connector\PLS2-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1561,7 +1536,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMGNXBIB
 
-[Document90]
+[Document89]
 DocumentPath=..\..\Pcb\Connector\PLS-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1578,7 +1553,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNJNOPPE
 
-[Document91]
+[Document90]
 DocumentPath=Header 2X30.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1595,7 +1570,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMLKUYGP
 
-[Document92]
+[Document91]
 DocumentPath=..\..\Pcb\Connector\MicroUSB-Molex-105133.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1612,7 +1587,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBPIXRCO
 
-[Document93]
+[Document92]
 DocumentPath=..\..\Pcb\Connector\PLD2-60.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1629,7 +1604,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OZYSGDBP
 
-[Document94]
+[Document93]
 DocumentPath=..\..\Pcb\Connector\DS1013-10S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1646,7 +1621,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRKSVGIF
 
-[Document95]
+[Document94]
 DocumentPath=..\..\Pcb\Connector\2201778-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1663,7 +1638,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYQIXWTS
 
-[Document96]
+[Document95]
 DocumentPath=..\..\Pcb\Connector\2007263-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1680,7 +1655,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQMQEEUD
 
-[Document97]
+[Document96]
 DocumentPath=Molex-SD-73415-298.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1697,7 +1672,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQBCROQQ
 
-[Document98]
+[Document97]
 DocumentPath=..\..\Pcb\Connector\Molex-SD-73415-298.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1714,7 +1689,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTTSQTDN
 
-[Document99]
+[Document98]
 DocumentPath=Header 2X50.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1731,7 +1706,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSFVXCLQ
 
-[Document100]
+[Document99]
 DocumentPath=..\..\Pcb\Connector\PBD-50-narrow.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1748,7 +1723,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWQCPVAD
 
-[Document101]
+[Document100]
 DocumentPath=Header 2X26.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1765,7 +1740,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAHEBUJV
 
-[Document102]
+[Document101]
 DocumentPath=..\..\Pcb\Connector\SD87340-26.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1782,7 +1757,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKYBBPIC
 
-[Document103]
+[Document102]
 DocumentPath=..\..\Pcb\Connector\PLD2-26.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1799,7 +1774,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZJMXBKWH
 
-[Document104]
+[Document103]
 DocumentPath=Header 2X24.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1816,7 +1791,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTNMFFJV
 
-[Document105]
+[Document104]
 DocumentPath=..\..\Pcb\Connector\PLD2-24R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1833,7 +1808,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJBPANFO
 
-[Document106]
+[Document105]
 DocumentPath=..\..\Pcb\Connector\PBS-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1850,7 +1825,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERAPNAZJ
 
-[Document107]
+[Document106]
 DocumentPath=ESQ-126-39-G-D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1867,7 +1842,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSYLIDEC
 
-[Document108]
+[Document107]
 DocumentPath=..\..\Pcb\Connector\ESQ-126-39-G-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1884,7 +1859,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDWXTGRL
 
-[Document109]
+[Document108]
 DocumentPath=PicoBlade_53261-0471.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1901,7 +1876,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQKRGECK
 
-[Document110]
+[Document109]
 DocumentPath=PicoBlade_53261-0671.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1918,7 +1893,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSFGGWKS
 
-[Document111]
+[Document110]
 DocumentPath=..\..\Pcb\Connector\VALCON_CSP-USC16-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1935,7 +1910,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document112]
+[Document111]
 DocumentPath=PicoBlade_53261-0871.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1952,7 +1927,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFTQTCAM
 
-[Document113]
+[Document112]
 DocumentPath=CSP-USC16-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1969,7 +1944,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCQHJGIA
 
-[Document114]
+[Document113]
 DocumentPath=..\..\Pcb\Connector\53261-0471.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1986,7 +1961,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSVMYHLE
 
-[Document115]
+[Document114]
 DocumentPath=..\..\Pcb\Connector\53261-0671.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2003,7 +1978,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSEMOHBF
 
-[Document116]
+[Document115]
 DocumentPath=..\..\Pcb\Connector\53261-0871.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2020,7 +1995,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RQGBRTFF
 
-[Document117]
+[Document116]
 DocumentPath=..\..\Pcb\Connector\PLD2-20_SD87340-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2037,7 +2012,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPUKCJQE
 
-[Document118]
+[Document117]
 DocumentPath=DB-371.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2054,7 +2029,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYZMQFQS
 
-[Document119]
+[Document118]
 DocumentPath=..\..\Pcb\Connector\DB-37.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2071,7 +2046,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCNICNFM
 
-[Document120]
+[Document119]
 DocumentPath=..\..\Pcb\Connector\IDC2-10R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2088,7 +2063,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODBHWEUC
 
-[Document121]
+[Document120]
 DocumentPath=uSD_socket.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2105,7 +2080,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQRTVUYA
 
-[Document122]
+[Document121]
 DocumentPath=..\..\Pcb\Connector\PBD-26-narrow.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2122,7 +2097,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBTADMWB
 
-[Document123]
+[Document122]
 DocumentPath=..\..\Pcb\Connector\PBD-18-narrow.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2139,7 +2114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCBIPVYJ
 
-[Document124]
+[Document123]
 DocumentPath=Header 2X18.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2156,7 +2131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFVDSXNB
 
-[Document125]
+[Document124]
 DocumentPath=..\..\Pcb\Connector\PBD-16-narrow.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2173,7 +2148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHBLDGQC
 
-[Document126]
+[Document125]
 DocumentPath=Header 2X16.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2190,7 +2165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRPSWEUJ
 
-[Document127]
+[Document126]
 DocumentPath=..\..\Pcb\Connector\PBD-8-narrow.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2207,7 +2182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVWPOBBU
 
-[Document128]
+[Document127]
 DocumentPath=..\..\Pcb\Connector\PBD2-2x20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2224,7 +2199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document129]
+[Document128]
 DocumentPath=RS-7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2241,7 +2216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFIKFZSZ
 
-[Document130]
+[Document129]
 DocumentPath=..\..\Pcb\Connector\RS-7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2258,7 +2233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJTABQGI
 
-[Document131]
+[Document130]
 DocumentPath=RS-10.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2275,7 +2250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTEQQEPN
 
-[Document132]
+[Document131]
 DocumentPath=..\..\Pcb\Connector\RS-10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2292,7 +2267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKFAQVDV
 
-[Document133]
+[Document132]
 DocumentPath=RS-19.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2309,7 +2284,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWOETCUR
 
-[Document134]
+[Document133]
 DocumentPath=..\..\Pcb\Connector\RS-19.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2326,7 +2301,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFDEIPEE
 
-[Document135]
+[Document134]
 DocumentPath=..\..\Pcb\Connector\RS-32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2343,7 +2318,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JIDLCRSP
 
-[Document136]
+[Document135]
 DocumentPath=RS-32.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2360,7 +2335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOHEZKPQ
 
-[Document137]
+[Document136]
 DocumentPath=RS-50.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2377,7 +2352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTLGNIFK
 
-[Document138]
+[Document137]
 DocumentPath=..\..\Pcb\Connector\RS-50.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2394,7 +2369,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDINLMMN
 
-[Document139]
+[Document138]
 DocumentPath=..\..\Pcb\Connector\PBD-2x10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2411,7 +2386,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMJGOAMD
 
-[Document140]
+[Document139]
 DocumentPath=..\..\Pcb\Connector\PLD2-10R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2428,7 +2403,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHYSNTQU
 
-[Document141]
+[Document140]
 DocumentPath=..\..\Pcb\Connector\PBD-2x16.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2445,7 +2420,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUEBWRKJ
 
-[Document142]
+[Document141]
 DocumentPath=..\..\Pcb\Connector\SD87340-12 WITHOUT HOLE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2462,7 +2437,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFHJEBJE
 
-[Document143]
+[Document142]
 DocumentPath=..\..\Pcb\Connector\ESQ-126-39-G-D_wide.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2479,7 +2454,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBDKKGCP
 
-[Document144]
+[Document143]
 DocumentPath=..\..\Pcb\Connector\53398-0871.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2496,7 +2471,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document145]
+[Document144]
 DocumentPath=..\..\Pcb\Connector\53398-0471.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2513,7 +2488,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document146]
+[Document145]
 DocumentPath=PicoBlade_53261-1071.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2530,7 +2505,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNEXZAIJ
 
-[Document147]
+[Document146]
 DocumentPath=..\..\Pcb\Connector\53261-1071.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2547,7 +2522,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document148]
+[Document147]
 DocumentPath=Jumper.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2564,7 +2539,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVQDYYUL
 
-[Document149]
+[Document148]
 DocumentPath=..\..\Pcb\Connector\JMP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2580,6 +2555,244 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document149]
+DocumentPath=Header 1x2.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HHUDRBNS
+
+[Document150]
+DocumentPath=Header 1x3.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document151]
+DocumentPath=Header 1X7.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document152]
+DocumentPath=..\..\Pcb\Connector\JST-B2B-XH-A.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BQCMCXGL
+
+[Document153]
+DocumentPath=..\..\Pcb\Connector\DS1073-01-2x12-MR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document154]
+DocumentPath=DS1073-01-2x12.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document155]
+DocumentPath=..\..\Pcb\Connector\47053-001.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NSLJTAPP
+
+[Document156]
+DocumentPath=..\..\Pcb\Connector\2007178-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GTUQDSBX
+
+[Document157]
+DocumentPath=..\..\Pcb\Connector\DS1073-01-2x4-MR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document158]
+DocumentPath=..\..\Pcb\Connector\DS1073-01-2x12-MV.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document159]
+DocumentPath=Header 2x7.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=USZJLUHC
+
+[Document160]
+DocumentPath=..\..\Pcb\Connector\DS1014-14SF1B.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JAHGMQTL
+
+[Document161]
+DocumentPath=..\..\Pcb\Connector\2007254-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DMEPJQRH
+
+[Document162]
+DocumentPath=..\..\Pcb\Connector\71436-0.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UGRVKSKS
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -2686,22 +2899,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -2774,18 +2977,6 @@ OutputDocumentPath11=
 OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -2808,11 +2999,6 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
-OutputDocumentPath4=
-OutputVariantName4=[No Variations]
-OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -2922,29 +3108,11 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Export Comments
-OutputName7=Export Comments
+OutputType7=GOSTBOM
+OutputName7=GOST BOM
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=BOM_ReportCompare
-OutputName8=BOM Compare
-OutputDocumentPath8=
-OutputVariantName8=[No Variations]
-OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=GOSTBOM
-OutputName10=GOST BOM
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -2957,6 +3125,102 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -3062,11 +3326,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -3199,37 +3458,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
-Type121=1
-Type122=1
-Type123=1
-Type124=1
-Type125=1
-Type126=1
-Type127=1
-Type128=1
-Type129=1
-Type130=1
-Type131=1
-Type132=1
-Type133=1
-Type134=1
-Type135=1
-Type136=1
-Type137=1
-Type138=1
-Type139=1
-Type140=1
-Type141=1
-Type142=1
-Type143=1
-Type144=1
-Type145=1
-Type146=1
-Type147=1
-Type148=1
-Type149=1
-Type150=1
 
 [Difference Levels]
 Type1=1
@@ -3300,19 +3528,6 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
-Type69=1
-Type70=1
-Type71=1
-Type72=1
-Type73=1
-Type74=1
-Type75=1
-Type76=1
-Type77=1
-Type78=1
-Type79=1
-Type80=1
-Type81=1
 
 [Electrical Rules Check]
 Type1=1
@@ -3440,35 +3655,6 @@ Type122=2
 Type123=1
 Type124=1
 Type125=1
-Type126=1
-Type127=1
-Type128=2
-Type129=2
-Type130=2
-Type131=2
-Type132=2
-Type133=2
-Type134=2
-Type135=2
-Type136=2
-Type137=2
-Type138=1
-Type139=1
-Type140=1
-Type141=1
-Type142=1
-Type143=1
-Type144=1
-Type145=1
-Type146=1
-Type147=2
-Type148=2
-Type149=2
-Type150=2
-Type151=2
-Type152=1
-Type153=1
-Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
