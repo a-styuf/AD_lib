@@ -84,23 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OAMSYYVQ
 
 [Document3]
-DocumentPath=..\..\Pcb\Custom\SMD_7050.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DNXRYAQI
-
-[Document4]
 DocumentPath=CVHD-950.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GEZHMZRO
 
-[Document5]
+[Document4]
 DocumentPath=..\..\Pcb\Custom\FP-CVHD-950.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOCGRTUN
 
-[Document6]
+[Document5]
 DocumentPath=SG5032VAN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNNJPVGV
 
-[Document7]
+[Document6]
 DocumentPath=..\..\Pcb\Standart\VCO_6_50x32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBCYEGMM
 
-[Document8]
+[Document7]
 DocumentPath=Crystall_Generic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFBIPDGH
 
-[Document9]
+[Document8]
 DocumentPath=..\..\Pcb\Standart\SMD_5032_2Pin_Crystal_Oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHOSINAC
 
-[Document10]
+[Document9]
 DocumentPath=..\..\Pcb\Standart\SMD_3025_Crystal_Oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNQEABFL
 
-[Document11]
+[Document10]
 DocumentPath=Crystall_Oscillator.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVLQHBHF
 
-[Document12]
+[Document11]
 DocumentPath=..\..\Pcb\Custom\SMD_5032_2Pin_Crystal_Oscillator_m.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMFBBNCW
 
-[Document13]
+[Document12]
 DocumentPath=..\..\Pcb\Standart\DT-38T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=SI570.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTLUVSYQ
 
-[Document15]
+[Document14]
 DocumentPath=..\..\Pcb\Custom\SI570.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NIHLSRWN
 
-[Document16]
+[Document15]
 DocumentPath=TG2520SMN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCWMNMUK
 
-[Document17]
+[Document16]
 DocumentPath=..\..\Pcb\Standart\SMD_2520_Crystal_Oscilator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YLPKXQWT
 
-[Document18]
+[Document17]
 DocumentPath=SI5344.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVWCNWEZ
 
-[Document19]
+[Document18]
 DocumentPath=..\..\Pcb\Standart\QFN-44_EP_7x7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKFKMYKR
 
-[Document20]
+[Document19]
 DocumentPath=SG5032CAN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHGRRFAI
 
-[Document21]
+[Document20]
 DocumentPath=..\..\Pcb\Standart\VCO_4_50x32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRFPKXOD
 
-[Document22]
+[Document21]
 DocumentPath=..\..\Pcb\Standart\SMD_3215_2Pin_Crystal_Oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YAIGZYSR
 
-[Document23]
+[Document22]
 DocumentPath=Si5503.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFXCYCJI
 
-[Document24]
+[Document23]
 DocumentPath=..\..\Pcb\Standart\10L_CQFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -455,7 +438,41 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XHHEGLYX
+
+[Document24]
+DocumentPath=..\..\Pcb\Custom\SMD_7050_2520.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EXTVHVBC
+
+[Document25]
+DocumentPath=..\..\Pcb\Custom\SMD_7050.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DNXRYAQI
 
 [OutputGroup1]
 Name=Netlist Outputs
